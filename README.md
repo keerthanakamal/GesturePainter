@@ -37,7 +37,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/GesturePainter.git
+git clone https://github.com/keerthanakamal/GesturePainter.git
 cd GesturePainter
 Install dependencies:
 
